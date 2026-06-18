@@ -32,22 +32,12 @@ Expand arrays or objects.
 
 ---
 
-# Interview Quick Notes
+## 🎯 Interview Quick Notes
 
-Destructuring ➜ Extract values
-map()         ➜ Transform data
-filter()      ➜ Select data
-reduce()      ➜ Single value
-rest(...)     ➜ Collect values
-spread(...)   ➜ Expand values
+Destructuring ➜ Extract values  
+map() ➜ Transform data  
+filter() ➜ Select data  
+reduce() ➜ Single value  
+rest(...) ➜ Collect values  
+spread(...) ➜ Expand values
 
----
-
-# Real React Usage
-
-✔ Rendering Lists
-✔ Updating State
-✔ Passing Props
-✔ API Response Handling
-✔ Merging Arrays and Objects
-✔ Calculating Totals
